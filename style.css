@@ -90,3 +90,8 @@ body::before {
 #heart {
     color: rgb(255, 43, 43);
 }
+
+#githubLogo {
+    color: #ffffff;
+    font-size: 15px;
+}
