@@ -54,11 +54,6 @@ function copyCardTitle(event) {
     textArea.select();
     document.execCommand("copy");
     document.body.removeChild(textArea);
-    Swal.fire({
-        title:  textArea.value + " Copied :)",
-        icon: "success",
-        confirmButtonText: "Cool !",
-    });
 }
 // eventListeners
 body.addEventListener("keydown", showKeyInfo);
