@@ -38,6 +38,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kashefsaltane](https://twitter.com/kashefsaltane) - muhamadhashemi@gmail.com
+X and Email - [@kashefsaltane](https://twitter.com/kashefsaltane) - muhamadhashemi@gmail.com
 
 Project Link: [https://github.com/kashef-ir/ascii-code](https://github.com/kashef-ir/ascii-code)
