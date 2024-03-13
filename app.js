@@ -21,7 +21,7 @@ function showKeyInfo(event) {
     let keyCode = event.which;
     let blockedKeys = [
         112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 124, 16, 17, 18,
-        27, 9, 32, 8, 37, 38, 39, 40, 46, 36, 35, 144, 145, 33, 34, 45, 19, 93,
+        27, 9, 32, 37, 38, 39, 40, 46, 36, 35, 144, 145, 33, 34, 45, 19, 93,
     ];
 
     // Check if the pressed key is in the blockedKeys array
